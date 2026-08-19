@@ -9,22 +9,16 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@prisma/composer": "https://pkg.pr.new/@prisma/composer@03483651",
-    "@prisma/composer-prisma-cloud": "https://pkg.pr.new/@prisma/composer-prisma-cloud@03483651",
     "next": "16.3.1",
     "react": "19.2.8",
     "react-dom": "19.2.8"
   },
   "devDependencies": {
-    "@prisma/composer-cli": "https://pkg.pr.new/@prisma/composer-cli@03483651",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.3.1",
     "typescript": "^5"
-  },
-  "overrides": {
-    "effect": "4.0.0-beta.103"
   }
 }
